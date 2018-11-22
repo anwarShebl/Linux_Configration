@@ -1,10 +1,13 @@
 # Linux_Configration
   This is the 6th project for udacity full stack nanodegree 
    Hostname and ip 
+   
    Ip : 3.121.213.74 .
   Hostname : ec2-3-121-213-74.eu-central-1.compute.amazonaws.com
   
+  
   software installed
+  
   1-Apache webserver using Flask framework and bootstrap formatting.
   2-Data is saved to a Postgresql database on the server.
   
