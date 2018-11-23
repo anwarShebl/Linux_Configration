@@ -9,6 +9,7 @@ hostname : ec2-3-121-213-74.eu-central-1.compute.amazonaws.com
  #software installed
  
  1 - Apache webserver using Flask framework and bootstrap formatting.
+ 
  2 - Data is saved to a Postgresql database on the server.
  
  #Configurations made
