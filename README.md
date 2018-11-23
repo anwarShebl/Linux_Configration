@@ -59,7 +59,7 @@ VdFjvuB9TlubaceJOLG5qc2ok5oNTEbIr4wgCtTfFkKO3BBx+QF0
  
    2. Postgresql user called 'catalog' added, with password 'password'
 
-   3. An additional superuser called 'grader' was added to allow Udacity grader to access the server
+   3. An additional superuser called 'grader' with password 'grader01000' was added to allow Udacity grader to access the server
 
    4. Password access to the server disabled
 
