@@ -14,11 +14,15 @@ This is the 6th project for udacity full stack nanodegree
    hostname : ec2-3-121-213-74.eu-central-1.compute.amazonaws.com
 
 
+
+
  #software installed
  
    1 - Apache webserver using Flask framework and bootstrap formatting.
  
    2 - Data is saved to a Postgresql database on the server.
+ 
+ 
  
  #Configurations made
  
@@ -38,9 +42,9 @@ This is the 6th project for udacity full stack nanodegree
 
  #Third Party Resources
   
-      1. https://github.com/mulligan121/Udacity-Linux-Configuration
+   1. https://github.com/mulligan121/Udacity-Linux-Configuration
 
-      2. https://github.com/mulligan121/Udacity-Linux-Configuration
+   2. https://github.com/mulligan121/Udacity-Linux-Configuration
  
  
  
