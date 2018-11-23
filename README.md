@@ -3,9 +3,6 @@ This is the 6th project for udacity full stack nanodegree
 
 
 
-
-
-
 #IP Address of server:
 
 
