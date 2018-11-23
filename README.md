@@ -36,6 +36,7 @@ This is the 6th project for udacity full stack nanodegree
    6. Enabled firewall to restrict ports to 2200 for ssh, 80 for webservice, 123 for NTP. All others ports have been blocked.
 
    7. The ssh port is 2200 - a non-default port. The normal port (22) has been disabled.
+   
 
  #Third Party Resources
   
