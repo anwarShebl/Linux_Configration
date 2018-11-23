@@ -3,6 +3,7 @@ This is the 6th project for udacity full stack nanodegree
 
 IP Address of server:
 ip : 3.121.213.74 .
+
 hostname : ec2-3-121-213-74.eu-central-1.compute.amazonaws.com
 
 
